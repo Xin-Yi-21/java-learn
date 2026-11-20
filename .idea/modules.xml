@@ -8,6 +8,7 @@
       <module fileurl="file://$PROJECT_DIR$/module-interface/module-interface.iml" filepath="$PROJECT_DIR$/module-interface/module-interface.iml" />
       <module fileurl="file://$PROJECT_DIR$/module-extends/module-extends.iml" filepath="$PROJECT_DIR$/module-extends/module-extends.iml" />
       <module fileurl="file://$PROJECT_DIR$/module-polymorphism/module-polymorphism.iml" filepath="$PROJECT_DIR$/module-polymorphism/module-polymorphism.iml" />
+      <module fileurl="file://$PROJECT_DIR$/module-inner-class/module-inner-class.iml" filepath="$PROJECT_DIR$/module-inner-class/module-inner-class.iml" />
     </modules>
   </component>
 </project>
